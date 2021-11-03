@@ -1,0 +1,171 @@
+
+.containerMain{
+    display:flex;
+    width: 100%;
+    height: 900px;
+    border: 2px rgb(255, 255, 255) solid;
+    background-color: rgb(255, 255, 255);
+ 
+}
+
+.container-1{
+    display:flex;
+    flex-direction: column;
+    
+    background-color: rgb(2, 2, 20);
+    width: 25%;
+    height: 900px;
+    border: 2px rgb(14, 7, 51) solid;
+
+}
+
+ .c1-box-1 {
+     
+    display:flex;
+    flex-direction: column;
+
+    background-color: rgb(19, 4, 44);
+    display:flex;
+    width: 100%;
+    height: 400px;
+    border: 2px rgb(14, 7, 51) solid;
+    
+}
+
+.c1-box-2 {
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(19, 4, 44);
+
+    
+    width: 100%;
+    height: 493px;
+    border: 2px rgb(14, 7, 51) solid;
+    
+    
+}
+
+.c1-box-2-1{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(19, 4, 44);
+    width: 100%;
+    height: 75px;
+    border: 2px rgb(14, 7, 51) solid;
+    text-shadow: 4px 4px 4px rgb(245, 245, 245);
+    text-align: center;
+    color: white;
+   
+
+}
+
+
+.c1-box-2-2{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(19, 4, 44);
+
+    width: 100%;
+    height: 410px;
+    border: 2px white;
+    text-shadow: 4px 4px 4px white;
+    text-align: center;
+    color: rgb(14, 7, 51);
+   
+
+}
+
+
+.container-2{
+    display:flex;
+    flex-direction: column;
+    width: 75%;
+    height: 900px;
+    border: 2px rgb(255, 255, 255) solid;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.c2-box-1{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 400px;
+    
+}
+.c2-box-2{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 400px;
+    
+    
+}
+
+.c2-box-3{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 80px;
+    color:rgb(44, 13, 221);
+    text-align: center;
+    
+    
+    
+}
+.c2b3-p1{
+    
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    text-align: center;
+
+}
+
+.c2b3-p2{
+  
+    width: 100%;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.c2b3-p3{
+
+    width: 100%;
+    height: 80px;
+    background-color: rgb(252, 252, 252);
+
+}
+.c2-box-4{
+    display:flex;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 20px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: large;
+
+
+
+    
+    
+    
+    
+}
+
+
+
+
+.c2b2-h3{
+    display:flex;
+    flex-direction: column;
+    margin-left: 20px;
+    text-decoration: rgb(245, 245, 248);
+    text-shadow: 4px 4px 4px rgb(4, 0, 255);
+
+}
+
